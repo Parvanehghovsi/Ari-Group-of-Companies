@@ -534,7 +534,7 @@
   
   @media (max-width: 768px) {
     .header {
-      min-height: 87vh;
+      min-height: 84vh;
     }
     .menu {
       display: none;
