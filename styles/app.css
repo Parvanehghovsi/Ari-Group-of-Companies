@@ -525,7 +525,7 @@
     }
     .service-content__caption {
       max-width: 40rem;
-      margin-left: 14rem;
+      margin-inline: auto;
     }
     .service-content__title--service {
       padding: 1.5rem 0;
