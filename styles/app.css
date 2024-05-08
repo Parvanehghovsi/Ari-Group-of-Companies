@@ -182,7 +182,6 @@
   
   .header {
     background: url("../images/header-bg.png") no-repeat;
-    background-position: center;
     background-size: cover;
     min-height: 90vh;
     position: relative;
