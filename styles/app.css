@@ -387,7 +387,7 @@ body {
 
 .partners {
   background: var(--primary-color);
-  height: 8rem;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
