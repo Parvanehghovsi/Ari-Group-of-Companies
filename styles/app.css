@@ -510,9 +510,6 @@ body {
 }
 
 @media (max-width: 992px) {
-  .partners {
-    margin-top: 0;
-  }
   .services {
     flex-direction: column;
     align-items: center;
